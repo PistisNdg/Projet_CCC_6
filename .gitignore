@@ -33,3 +33,6 @@ env/
 
 # OS
 Thumbs.db
+
+# Outils locaux (non versionnés)
+.tools/
