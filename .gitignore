@@ -1,0 +1,35 @@
+# Environnement
+.env
+.env.local
+*.pem
+*.key
+secrets.json
+config.local.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs et cache
+*.log
+logs/
+.cache/
+*.tmp
+*.temp
+
+# Node (optionnel pour serveur local)
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+env/
+
+# OS
+Thumbs.db
